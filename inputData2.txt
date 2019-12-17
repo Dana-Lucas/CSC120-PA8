@@ -1,0 +1,5 @@
+Random Material  , random category,235346,1,745,0.3342,642
+Nitinol,alloy,  60,1070,13010,0.33,6500
+     Aluminum  ,metal    , 70,47,660,  0.33,2700
+   Nickel,metal , 207       ,45,1455,0.31 ,  8880   
+Lead,metal,14,18,328,0.42,10220        
